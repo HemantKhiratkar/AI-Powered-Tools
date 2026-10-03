@@ -1,0 +1,12 @@
+Subject: Supplier performance improvement request — SUP031
+
+Dear Om Metals team,
+
+Your current supplier score is 38.8/100 and your assigned tier is Exit. Please review the following performance items:
+- On-time delivery (90.0%): Submit a recovery plan with milestones.
+- Rejection rate (6.29%): Provide a root-cause quality review.
+- Average price change (+2.87%): Provide cost breakdown for increases.
+- Responsiveness (2.10/5): Commit to response-time targets.
+
+Regards,
+Procurement Team
