@@ -1,12 +1,12 @@
 # T18: Supplier_Scorecard_Report
 
-# Task T18: Procurement Supplier Scorecard – Final Management Report
+# Task T18: Procurement Supplier Scorecard: Final Report
 
 Prepared by: Hemant Khiratkar
 Program: MBA Data Science & Data Analytics, SCIT
 PRN:## 26030242022
 
-## 1. Executive Summary
+## 1. Summary
 
 This report details the development and implementation of an automated Supplier Scorecard application built to evaluate vendor performance across a portfolio of 40 suppliers and 600 purchase orders. The resulting Streamlit application provides procurement managers with a dynamic, data-driven dashboard to adjust Key Performance Indicator (KPI) weights, classify suppliers into strategic tiers, and automatically generate corrective feedback for underperforming vendors.
 
